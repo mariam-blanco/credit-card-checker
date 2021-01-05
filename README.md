@@ -18,6 +18,8 @@ Ejercicio de codecademy.com donde dan 15 arrays con números de tarjetas de cré
 
 ![Diagram](/images/cc validator diagram 1.svg)
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 2. Crear la función `findInvalidCards()` a la que se le pase un array con los todos números de tarjeta y devuelva un array con las tarjetas de números inválidos.
 
