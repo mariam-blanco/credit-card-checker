@@ -1,7 +1,7 @@
 ## Credit Card Checker
 
 
-Ejercicio de codecademy.com donde dan 15 arrays con números de tarjetas de crédito y se pide qque se compruebe si son números válidos o no.
+Ejercicio de codecademy.com donde dan 15 arrays con números de tarjetas de crédito y se pide que se compruebe si son números válidos o no.
 
 
 
