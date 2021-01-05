@@ -10,7 +10,6 @@ Ejercicio de codecademy.com donde dan 15 arrays con números de tarjetas de cré
     * Sumar todos los dígitos de la tarjeta de crédito.
     * Si el número restante se divide por 10 y el resto de la división es 0 la tarjeta **es válida**. En caso contrario es inválida.
 
-![Diagram](/images/cc-validator-diagram-1.svg)
 
 2. Crear la función `findInvalidCards()` a la que se le pase un array con los todos números de tarjeta y devuelva un array con las tarjetas de números inválidos.
 
@@ -30,6 +29,7 @@ Si el número no comienza con ninguno de los números enumerados, imprimir el me
 
 `idInvalidCardCompanies()` debe devolver una array de empresas de las tarjetas con números no válidos. Este array NO debe contener duplicados, es decir, incluso si hay dos tarjetas Visa no válidas, "Visa" solo debe aparecer una vez en la matriz.
 
+![Diagram](/images/cc-validator-diagram-1.svg)
 
 ### Project Requirements
 
