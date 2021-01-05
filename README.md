@@ -1,8 +1,12 @@
 ## Credit Card Checker
 
+
 Ejercicio de codecademy.com donde dan 15 arrays con números de tarjetas de crédito y se pide qque se compruebe si son números válidos o no.
 
+
+
 ### Requisitos
+
 
 1. Crear una función `validateCred()` que tiene como parámetro un array. La función **no debe mutar el array** y tiene que:
 
@@ -31,7 +35,9 @@ Si el número no comienza con ninguno de los números enumerados, imprimir el me
 `idInvalidCardCompanies()` debe devolver una array de empresas de las tarjetas con números no válidos. Este array NO debe contener duplicados, es decir, incluso si hay dos tarjetas Visa no válidas, "Visa" solo debe aparecer una vez en la matriz.
 
 
+
 ### Project Requirements
+
 
 1. Look over the starter code. There are 15 arrays that each contain the digits of separate credit card numbers. They all have prefixes to reflect their status, i.e. variables that start with `valid` contain a valid number, whereas `invalid` do not, and `mystery` variables can be either. There is also a `batch` array that stores all of the provided credit cards in a single array.
 You’ll use these arrays later to check if your functions are working properly.
