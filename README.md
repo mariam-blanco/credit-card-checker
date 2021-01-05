@@ -10,7 +10,7 @@ Ejercicio de codecademy.com donde dan 15 arrays con números de tarjetas de cré
     * Sumar todos los dígitos de la tarjeta de crédito.
     * Si el número restante se divide por 10 y el resto de la división es 0 la tarjeta **es válida**. En caso contrario es inválida.
 
-![alt text](https://github.com/mariam-blanco/credit-card-checker/blob/main/images/cc validator diagram 1.svg?raw=true)
+![Diagram](/images/cc-validator-diagram-1.svg)
 
 2. Crear la función `findInvalidCards()` a la que se le pase un array con los todos números de tarjeta y devuelva un array con las tarjetas de números inválidos.
 
